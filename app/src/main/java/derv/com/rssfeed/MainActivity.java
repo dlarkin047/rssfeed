@@ -13,6 +13,11 @@ public class MainActivity extends AppCompatActivity {
         ReadRss readRss = new ReadRss(this);
         readRss.execute();
 
+        //To Do
+        // Connect to Irish Independent
+        // Try and display Malahide feeds
+        // Try and have multiple feeds.
+
     }
 
 
